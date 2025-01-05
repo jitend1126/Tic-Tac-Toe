@@ -34,7 +34,7 @@ public class Game {
         {
             int ro,co;
             Scanner in = new Scanner(System.in);
-            System.out.println("enter row and coleume");
+            System.out.println("enter row and columm");
             ro = in.nextInt();
             co=in.nextInt();
 
